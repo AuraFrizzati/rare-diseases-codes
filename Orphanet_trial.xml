@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<JDBOR date="2024-07-03 15:37:52" version="1.3.29 / 4.1.7 [2023-08-02] (orientdb version)" copyright="Orphanet (c) 2024" dbserver="jdbc:sybase:Tds:canard.orpha.net:2020">
+  <Availability> 
+    <Licence>
+      <FullName lang="en">Creative Commons Attribution 4.0 International</FullName>
+      <ShortIdentifier>CC-BY-4.0</ShortIdentifier>
+      <LegalCode>https://creativecommons.org/licenses/by/4.0/legalcode</LegalCode>
+    </Licence>
+  </Availability>
+  <DisorderList count="11023">
+    <Disorder id="17601">
+      <OrphaCode>166024</OrphaCode>
+      <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=166024</ExpertLink>
+      <Name lang="en">Multiple epiphyseal dysplasia-macrocephaly-facial dysmorphism syndrome</Name>
+      <DisorderFlagList count="1">
+        <DisorderFlag id="475">
+          <Value>1</Value>
+          <Label>on-line</Label>
+        </DisorderFlag>
+      </DisorderFlagList>
+      <SynonymList count="2">
+        <Synonym lang="en">Dysplasie épiphysaire multiple type Al-Gazali</Synonym>
+        <Synonym lang="en">Multiple epiphyseal dysplasia, Al-Gazali type</Synonym>
+      </SynonymList>
+      <DisorderType id="21394">
+        <Name lang="en">Disease</Name>
+      </DisorderType>
+      <DisorderGroup id="36547">
+        <Name lang="en">Disorder</Name>
+      </DisorderGroup>
+      <ExternalReferenceList count="4">
+        <ExternalReference id="212360">
+          <Source>ICD-11</Source>
+          <Reference>LD24.61</Reference>
+          <DisorderMappingRelation id="21534">
+            <Name lang="en">NTBT (ORPHAcode is narrower than the targeted code used to represent it)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation id="21597">
+            <Name lang="en">Index term (ICD-10: Orphanet entity listed in the ICD-10 Index. ICD-11: Orphanet entity listed in the ICD-11 Foundation)</Name>
+          </DisorderMappingICDRelation>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="120419">
+          <Source>ICD-10</Source>
+          <Reference>Q77.3</Reference>
+          <DisorderMappingRelation id="21534">
+            <Name lang="en">NTBT (ORPHAcode is narrower than the targeted code used to represent it)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation id="21604">
+            <Name lang="en">Attributed code (ICD-10/ICD-11: The targeted code is assigned by Orphanet)</Name>
+          </DisorderMappingICDRelation>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="38949">
+          <Source>OMIM</Source>
+          <Reference>607131</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="219782">
+          <Source>UMLS</Source>
+          <Reference>C4304500</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+      </ExternalReferenceList>
+      <DisorderDisorderAssociationList count="0">
+      </DisorderDisorderAssociationList>
+      <SummaryInformationList count="1">
+        <SummaryInformation id="63385" lang="en">
+          <TextSectionList count="1">
+            <TextSection id="83697" lang="en">
+              <TextSectionType id="16907">
+                <Name lang="en">Definition</Name>
+              </TextSectionType>
+              <Contents>A rare primary bone dysplasia characterized by the association of multiple epiphyseal dysplasia with macrocephaly and dysmorphic facial features (such as frontal bossing, hypertelorism, flat malar region, low-set ears, and short neck). Patients are of normal stature and present with joint swelling and &lt;i&gt;genu valgum&lt;/i&gt;. Additional reported manifestations include clinodactyly, spindle-shaped fingers, and &lt;i&gt;pectus excavatum&lt;/i&gt;.</Contents>
+            </TextSection>
+          </TextSectionList>
+        </SummaryInformation>
+      </SummaryInformationList>
+    </Disorder>
+    <Disorder id="2">
+      <OrphaCode>58</OrphaCode>
+      <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=58</ExpertLink>
+      <Name lang="en">Alexander disease</Name>
+      <DisorderFlagList count="1">
+        <DisorderFlag id="475">
+          <Value>1</Value>
+          <Label>on-line</Label>
+        </DisorderFlag>
+      </DisorderFlagList>
+      <SynonymList count="1">
+        <Synonym lang="en">AxD</Synonym>
+      </SynonymList>
+      <DisorderType id="21394">
+        <Name lang="en">Disease</Name>
+      </DisorderType>
+      <DisorderGroup id="36547">
+        <Name lang="en">Disorder</Name>
+      </DisorderGroup>
+      <ExternalReferenceList count="7">
+        <ExternalReference id="3649">
+          <Source>OMIM</Source>
+          <Reference>203450</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="104490">
+          <Source>MeSH</Source>
+          <Reference>D038261</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="104491">
+          <Source>UMLS</Source>
+          <Reference>C0270726</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="247543">
+          <Source>ICD-10</Source>
+          <Reference>G93.8</Reference>
+          <DisorderMappingRelation id="21534">
+            <Name lang="en">NTBT (ORPHAcode is narrower than the targeted code used to represent it)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation id="21604">
+            <Name lang="en">Attributed code (ICD-10/ICD-11: The targeted code is assigned by Orphanet)</Name>
+          </DisorderMappingICDRelation>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="223995">
+          <Source>MedDRA</Source>
+          <Reference>10083059</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="211958">
+          <Source>ICD-11</Source>
+          <Reference>8A44.2</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation id="21583">
+            <Name lang="en">Specific code (ICD-10/ICD-11: ORPHAcode has its own code in the targeted terminology)</Name>
+          </DisorderMappingICDRelation>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+        <ExternalReference id="240536">
+          <Source>GARD</Source>
+          <Reference>5774</Reference>
+          <DisorderMappingRelation id="21527">
+            <Name lang="en">E (Exact mapping: the two concepts are equivalent)</Name>
+          </DisorderMappingRelation>
+          <DisorderMappingICDRelation/>
+          <DisorderMappingValidationStatus id="21611">
+            <Name lang="en">Validated</Name>
+          </DisorderMappingValidationStatus>
+        </ExternalReference>
+      </ExternalReferenceList>
+      <DisorderDisorderAssociationList count="0">
+      </DisorderDisorderAssociationList>
+      <SummaryInformationList count="1">
+        <SummaryInformation id="998" lang="en">
+          <TextSectionList count="1">
+            <TextSection id="72783" lang="en">
+              <TextSectionType id="16907">
+                <Name lang="en">Definition</Name>
+              </TextSectionType>
+              <Contents>A rare neurodegenerative disorder of the astrocytes comprised of two clinical forms: Alexander disease (AxD) type I and type II manifesting with various degrees of macrocephaly, spasticity, ataxia and seizures and leading to psychomotor regression and death.</Contents>
+            </TextSection>
+          </TextSectionList>
+        </SummaryInformation>
+      </SummaryInformationList>
+    </Disorder>
+  </DisorderList>
+</JDBOR>
